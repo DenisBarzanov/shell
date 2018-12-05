@@ -1,0 +1,4 @@
+/home/denisbarzanov2002/CLionProjects/os_shell_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/denisbarzanov2002/CLionProjects/os_shell_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/denisbarzanov2002/CLionProjects/os_shell_1/cmake-build-debug/CMakeFiles/os_shell_1.dir
+/home/denisbarzanov2002/CLionProjects/os_shell_1/cmake-build-debug/CMakeFiles/apue_target.dir

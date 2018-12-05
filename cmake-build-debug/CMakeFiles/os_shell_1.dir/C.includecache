@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../apue.3e/include/apue.h
+sys/types.h
+-
+sys/stat.h
+-
+sys/termios.h
+-
+sys/ioctl.h
+-
+stdio.h
+-
+stdlib.h
+-
+stddef.h
+-
+string.h
+-
+unistd.h
+-
+signal.h
+-
+
+/home/denisbarzanov2002/CLionProjects/os_shell_1/dsh_builtins.c
+apue.h
+/home/denisbarzanov2002/CLionProjects/os_shell_1/apue.h
+dsh_builtins.h
+/home/denisbarzanov2002/CLionProjects/os_shell_1/dsh_builtins.h
+
+/home/denisbarzanov2002/CLionProjects/os_shell_1/dsh_builtins.h
+

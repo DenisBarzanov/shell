@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/os_shell_1.dir/main.c.o CMakeFiles/os_shell_1.dir/dsh_builtins.c.o  -o os_shell_1 ../apue.3e/lib/libapue.a 
